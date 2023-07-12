@@ -1,0 +1,57 @@
+@font-face {
+  font-family: Benton;
+  src: url("./fonts/BentonSansRegular.woff2") format("woff2"), url("./fonts/BentonSansRegular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Benton;
+  src: url("./fonts/BentonSansBold.woff2") format("woff2"), url("./fonts/BentonSansBold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: BentonCond;
+  src: url("./fonts/BentonSansCondensedBlack.woff2") format("woff2"),
+    url("./fonts/BentonSansCondensedBlack.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: NeueHaas;
+  src: url("./fonts/NeueHaasGrotText-55Roman-Web.eot");
+  src: url("./fonts/NeueHaasGrotText-55Roman-Web.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/NeueHaasGrotText-55Roman-Web.woff2") format("woff2"),
+    url("./fonts/NeueHaasGrotText-55Roman-Web.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: NeueHaas;
+  src: url("./fonts/NeueHaasGrotText-65Medium-Web.eot");
+  src: url("./fonts/NeueHaasGrotText-65Medium-Web.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/NeueHaasGrotText-65Medium-Web.woff2") format("woff2"),
+    url("./fonts/NeueHaasGrotText-65Medium-Web.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: NeueHaas;
+  src: url("./fonts/NeueHaasGrotText-75Bold-Web.eot");
+  src: url("./fonts/NeueHaasGrotText-75Bold-Web.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/NeueHaasGrotText-75Bold-Web.woff2") format("woff2"),
+    url("./fonts/NeueHaasGrotText-75Bold-Web.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}

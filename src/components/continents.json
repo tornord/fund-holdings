@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Europa",
+    "code": "CEU",
+    "midX": 1060,
+    "midY": 184,
+    "boundingRect": { "x": 885, "y": 61, "width": 294, "height": 213 }
+  },
+  {
+    "name": "Asien",
+    "code": "CAS",
+    "midX": 1446.0,
+    "midY": 234.4,
+    "boundingRect": { "x": 1096, "y": 41, "width": 679, "height": 528 }
+  },
+  {
+    "name": "Afrika",
+    "code": "CAF",
+    "midX": 1100,
+    "midY": 464,
+    "boundingRect": { "x": 858, "y": 265, "width": 442, "height": 460 }
+  },
+  {
+    "name": "Nordamerika",
+    "code": "CNA",
+    "midX": 441,
+    "midY": 237,
+    "boundingRect": { "x": 224, "y": 51, "width": 445, "height": 365 }
+  },
+  {
+    "name": "Sydamerika",
+    "code": "CSA",
+    "midX": 652.2,
+    "midY": 610.6,
+    "boundingRect": { "x": 488, "y": 417, "width": 305, "height": 438 }
+  },
+  {
+    "name": "Oceanien",
+    "code": "COC",
+    "midX": 1830,
+    "midY": 637,
+    "boundingRect": { "x": 1591, "y": 447, "width": 407, "height": 358 }
+  }
+]
